@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseCloudMessagingPushNotification</string>
+    <string name="welcome_to_geeksforgeeks_firebase_example">Welcome to GeeksForGeeks Firebase example</string>
+</resources>
